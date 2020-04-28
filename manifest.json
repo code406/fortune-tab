@@ -1,8 +1,8 @@
 {
-	"name": "cow tab",
+	"name": "fortune-tab",
 	"manifest_version": 2,
-	"description": "A simple, fast, new tab page, with a retro feel and good advice.",
-	"version": "1.4",
+	"description": "A simple, fast, new tab page, with a retro feel and good advice. This is a fork of Tanishq Dubey's cow-tab extension (https://github.com/tanishq-dubey/cowtab). Now features the one and only dog of wisdom.",
+	"version": "1.4.1",
 	"default_locale": "en",
 	"permissions": ["management", "storage"],
 	"icons": { "16": "icon.png",

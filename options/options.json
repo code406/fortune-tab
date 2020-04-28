@@ -1,14 +1,14 @@
 {
 	"backgroundColor": {
-		"default": "#22313F",
+		"default": "#222222",
 		"type": "color"
 	},
 	"textColor": {
-		"default": "#ECECEC",
+		"default": "#dedede",
 		"type": "color"
 	},
 	"cowType": {
-		"default": "default.cow",
+		"default": "template.cow",
 		"type": "option",
 		"options": {
 			"fromLines": "../cows/index.txt"
